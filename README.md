@@ -21,12 +21,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 <p>Desktop</p>
 <img src="screenshots/desktop.png" alt="Desktop screenshot of the blog preview card" style="width: 100%; max-width: 600px;">
 <p>Mobile</p>
-<img src="screenshots/mobile.png" alt="Mobile screenshot of the blog preview card" style="width: 100%; max-width: 200px;">
+<img src="screenshots/mobile.png" alt="Mobile screenshot of the blog preview card" style="width: 200px;">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/abdullah09c/blog-preview-card-main.git)
+- Live Site URL: [Live site URL here](https://abdullah09c.github.io/blog-preview-card-main/)
 
 ## My process
 
